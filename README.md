@@ -6,7 +6,7 @@ here's how to do settings.json:
 add to you settings.json
 ```
 "blocklist-enabled": true,
-"blocklist-url": "https://github.com/sahsu/transmission-blocklist/releases/download/1.0.3/blocklist.gz"
+"blocklist-url": "https://github.com/sahsu/transmission-blocklist/releases/download/1.0.0/blocklist.gz"
 ```
 
 verify by command:
