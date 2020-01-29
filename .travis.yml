@@ -9,5 +9,3 @@ deploy:
   api_key: $GH_TOKEN
   file: blocklist.gz
   skip_cleanup: true
-  on:
-    tags: true
