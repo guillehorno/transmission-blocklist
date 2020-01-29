@@ -2,3 +2,5 @@ language: minimal
 branches:
   only:
     - master # build master branch only
+script:
+  - ./blocklist-build.sh
