@@ -1,10 +1,10 @@
 sudo: false
-language: shell
+language: minimal
 branches:
   only:
     - master # build master branch only
 script:
-  - ./blocklist-.build.sh
+  - ./blocklist-build.sh
 deploy:
   provider: releases
   skip-cleanup: true
