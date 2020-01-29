@@ -1,1 +1,4 @@
 language: minimal
+branches:
+  only:
+    - master # build master branch only
